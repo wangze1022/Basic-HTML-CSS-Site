@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    font-size: 16px;
+}
+
+header {
+    background-color: #A5D6A7;
+}
+
+h1 {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: #FFFFFF;
+}
+
+h1 {
+    letter-spacing: -1px;
+}
+
+h2 {
+    color: #81D4FA;
+}
+
+main {
+    background-color: #FFFFFF;
+}
+
+footer {
+    background-color: #FFAB91;
+}
+
+footer {
+    font-size: x-small;
+}
+
+footer {
+    text-align: center;
+}
+
+.img {
+    text-align: center;
+}
+
+header, 
+nav, 
+main, 
+footer {
+    padding: 5px;
+}
+
+section {
+    padding-left: 5px;
+}
+
+h1 {
+    margin-bottom: 0px;
+}
+
+h4 {
+    margin-top: 0px;
+}
